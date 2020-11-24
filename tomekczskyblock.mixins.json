@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "tomekcz.mods.skyblock.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "tomekczskyblock.refmap.json",
+  "mixins": [
+    "MixinRender"
+  ]
+}

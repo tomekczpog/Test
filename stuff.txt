@@ -1,0 +1,201 @@
+Connected to the target VM, address: '127.0.0.1:59817', transport: 'socket'
+2020-11-24 17:37:23,769 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+2020-11-24 17:37:23,770 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+[17:37:23] [main/INFO] [GradleStart]: username: Would like to not dox my self
+[17:37:23] [main/INFO] [GradleStart]: Extra: []
+[17:37:23] [main/INFO] [GradleStart]: Password found, attempting login
+[17:37:23] [main/INFO]: Logging in with username & password
+[17:37:24] [main/INFO] [GradleStart]: Login Succesful!
+[17:37:24] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, [], --assetsDir, C:/Users/Tomas/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --userType, mojang, --accessToken{REDACTED}, --version, 1.8.9, --uuid, e0590718dc4949a1b6cbe6ead52591e0, --username, RadiksPL, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:37:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:37:25] [main/INFO] [FML]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[17:37:25] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_251, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_251\jre
+[17:37:25] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[17:37:25] [main/INFO] [FML]: Found a command line coremod : tomekcz.mods.skyblock.mixins.MixinTweaker
+2020-11-24 17:37:25,152 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+2020-11-24 17:37:25,198 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+2020-11-24 17:37:25,200 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+[17:37:25] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.6.4 Source=file:/C:/Users/Tomas/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.6.4-SNAPSHOT/bdaaf9c7b34b9559b9265786ad7972ac3777834e/mixin-0.6.4-SNAPSHOT.jar Env=CLIENT
+/*********************************************************************************************************************************************************************************************************/
+/*                                                                            SpongePowered MIXIN (Verbose debugging enabled)                                                                            */
+/*********************************************************************************************************************************************************************************************************/
+/*                        Code source : file:/C:/Users/Tomas/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.6.4-SNAPSHOT/bdaaf9c7b34b9559b9265786ad7972ac3777834e/mixin-0.6.4-SNAPSHOT.jar */
+/*                   Internal Version : 0.6.4                                                                                                                                                            */
+/*                   Java 8 Supported : true                                                                                                                                                             */
+/*********************************************************************************************************************************************************************************************************/
+/*                        mixin.debug : <true>                                                                                                                                                           */
+/*                 mixin.debug.export : - <true>                                                                                                                                                         */
+/*          mixin.debug.export.filter : - - <null>                                                                                                                                                       */
+/*       mixin.debug.export.decompile : - - <true>                                                                                                                                                       */
+/* mixin.debug.export.decompile.async : - - - <true>                                                                                                                                                     */
+/*                 mixin.debug.verify : - <true>                                                                                                                                                         */
+/*                mixin.debug.verbose : - <true>                                                                                                                                                         */
+/*        mixin.debug.countInjections : - <true>                                                                                                                                                         */
+/*                 mixin.debug.strict : - <false>                                                                                                                                                        */
+/*          mixin.debug.strict.unique : - - <false>                                                                                                                                                      */
+/*         mixin.debug.strict.targets : - - <false>                                                                                                                                                      */
+/*          mixin.dumpTargetOnFailure : <false>                                                                                                                                                          */
+/*                       mixin.checks : <false>                                                                                                                                                          */
+/*            mixin.checks.interfaces : - <false>                                                                                                                                                        */
+/*     mixin.checks.interfaces.strict : - - <false>                                                                                                                                                      */
+/*            mixin.ignoreConstraints : <false>                                                                                                                                                          */
+/*                      mixin.hotSwap : <false>                                                                                                                                                          */
+/*                          mixin.env : <false>                                                                                                                                                          */
+/*                      mixin.env.obf : - <false>                                                                                                                                                        */
+/*            mixin.env.disableRefMap : - <true>                                                                                                                                                         */
+/*              mixin.env.compatLevel : - <false>                                                                                                                                                        */
+/*     mixin.initialiserInjectionMode : <default>                                                                                                                                                        */
+/*********************************************************************************************************************************************************************************************************/
+/*                      Detected Side : CLIENT                                                                                                                                                           */
+/*********************************************************************************************************************************************************************************************************/
+[17:37:25] [main/INFO] [mixin]: Attempting to load Fernflower decompiler (Threaded mode)
+[17:37:25] [main/INFO] [mixin]: Fernflower could not be loaded, exported classes will not be decompiled. NoClassDefFoundError: org/jetbrains/java/decompiler/main/extern/IResultSaver
+[17:37:25] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[17:37:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:37:25] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[17:37:25] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[17:37:25] [main/INFO] [GradleStart]: Injecting location in coremod tomekcz.mods.skyblock.mixins.MixinTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:37:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:37:25] [main/INFO] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[17:37:25] [main/ERROR] [FML]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[17:37:28] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[17:37:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:37:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:37:28] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker
+[17:37:28] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@8deb645
+[17:37:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:37:28] [main/INFO] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[17:37:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[17:37:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:37:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:37:28] [main/INFO] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[17:37:28] [main/INFO] [mixin]: Selecting config tomekczskyblock.mixins.json
+[17:37:28] [main/INFO] [mixin]: Preparing tomekczskyblock.mixins.json (1)
+[17:37:29] [main/INFO] [mixin]: Prepared 1 mixins in 0,299 sec (299,0 msec avg.)
+[17:37:29] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:37:29] [main/INFO] [mixin]: Mixing MixinRender from tomekczskyblock.mixins.json into net.minecraft.entity.player.EntityPlayer
+[17:37:30] [Client thread/INFO]: Setting user: RadiksPL
+[17:37:33] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:37:34] [Client thread/WARN] [FML]: =============================================================
+[17:37:34] [Client thread/WARN] [FML]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[17:37:34] [Client thread/WARN] [FML]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[17:37:34] [Client thread/WARN] [FML]: Use FMLCommonHandler.exitJava instead
+[17:37:34] [Client thread/WARN] [FML]: =============================================================
+[17:37:34] [Client thread/INFO] [STDOUT]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 24.11.20 17:37
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_251, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 253418688 bytes (241 MB) / 530579456 bytes (506 MB) up to 3806855168 bytes (3630 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MixinTweaker (unknown)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 432.00' Renderer: 'GeForce GTX 950/PCIe/SSE2'
+[17:37:35] [Client thread/INFO] [FML]: MinecraftForge v11.15.1.1722 Initialized
+[17:37:35] [Client thread/INFO] [FML]: Replaced 204 ore recipies
+[17:37:35] [Client thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[17:37:35] [Client thread/INFO] [FML]: Searching C:\Users\Tomas\Desktop\Rzeczy\mods\Dungeons+\run\mods for mods
+[17:37:38] [Client thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[17:37:38] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, tomekczskyblock] at CLIENT
+[17:37:38] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, tomekczskyblock] at SERVER
+[17:37:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:tomekcz`s skyblock
+[17:37:39] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:37:39] [Client thread/INFO] [FML]: Found 384 ObjectHolder annotations
+[17:37:39] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:37:39] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:37:39] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:37:39] [Forge Version Check/INFO] [ForgeVersionCheck]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:37:39] [Client thread/INFO] [FML]: Applying holder lookups
+[17:37:39] [Client thread/INFO] [FML]: Holder lookups applied
+[17:37:39] [Client thread/INFO] [FML]: Injecting itemstacks
+[17:37:39] [Client thread/INFO] [FML]: Itemstack injection complete
+[17:37:39] [Forge Version Check/INFO] [ForgeVersionCheck]: [Forge] Found status: UP_TO_DATE Target: null
+[17:37:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:37:39] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[17:37:39] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:37:39] [Thread-9/INFO]: OpenAL initialized.
+[17:37:40] [Sound Library Loader/INFO]: Sound engine started
+[17:37:49] [Client thread/INFO] [FML]: Max texture size: 16384
+[17:37:49] [Client thread/INFO]: Created: 16x16 textures-atlas
+[17:37:50] [Client thread/INFO] [FML]: Injecting itemstacks
+[17:37:50] [Client thread/INFO] [FML]: Itemstack injection complete
+[17:37:50] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[17:37:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:tomekcz`s skyblock
+[17:37:50] [Client thread/INFO]: SoundSystem shutting down...
+[17:37:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:37:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:37:51] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[17:37:51] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:37:51] [Thread-11/INFO]: OpenAL initialized.
+[17:37:51] [Sound Library Loader/INFO]: Sound engine started
+[17:38:00] [Client thread/INFO] [FML]: Max texture size: 16384
+[17:38:00] [Client thread/INFO]: Created: 512x512 textures-atlas
+[17:38:05] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[17:38:05] [Server thread/INFO]: Generating keypair
+[17:38:05] [Server thread/ERROR] [fml.ModTracker]: This world was saved with mod skyblockaddons which appears to be missing, things may not work well
+[17:38:05] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
+[17:38:05] [Server thread/INFO] [FML]: Applying holder lookups
+[17:38:05] [Server thread/INFO] [FML]: Holder lookups applied
+[17:38:05] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@4e6114b)
+[17:38:05] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@4e6114b)
+[17:38:05] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@4e6114b)
+[17:38:05] [Server thread/INFO]: Preparing start region for level 0
+[17:38:06] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:38:08] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[17:38:08] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[17:38:08] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 4 mods : FML@8.0.99.99,Forge@11.15.1.1722,mcp@9.19,tomekczskyblock@1.0.4
+[17:38:08] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[17:38:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:38:08] [Server thread/INFO]: RadiksPL[local:E:e958505c] logged in with entity id 51 at (2488.1149627463383, 56.0, 1313.9788739343162)
+[17:38:08] [Server thread/INFO]: RadiksPL joined the game
+[17:38:10] [Server thread/INFO]: RadiksPL fell out of the world
+[17:38:10] [Server thread/INFO]: [RadiksPL: Killed RadiksPL]
+[17:38:10] [Client thread/INFO]: [CHAT] RadiksPL fell out of the world
+[17:38:10] [Client thread/INFO]: [CHAT] Killed RadiksPL
+[17:38:14] [Server thread/INFO]: Saving and pausing game...
+[17:38:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:38:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:38:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:38:20] [Server thread/INFO]: [RadiksPL: Set own game mode to Creative Mode]
+[17:38:20] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[17:38:39] [Client thread/INFO]: Stopping!
+[17:38:39] [Client thread/INFO]: SoundSystem shutting down...
+[17:38:39] [Server thread/INFO]: Stopping server
+[17:38:39] [Server thread/INFO]: Saving players
+[17:38:39] [Server thread/INFO]: Saving worlds
+[17:38:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:38:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:38:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:38:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:38:39] [Client Shutdown Thread/INFO]: Stopping server
+[17:38:39] [Client Shutdown Thread/INFO]: Saving players
+[17:38:39] [Client Shutdown Thread/INFO]: Saving worlds
+[17:38:39] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
+Exception in thread "Server thread" Disconnected from the target VM, address: '127.0.0.1:59817', transport: 'socket'
+
+Process finished with exit code 0
